@@ -29,7 +29,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.email "faizn103a@gmail.com"
-          git config --local user.name "faiznurullah"
+          git config --local user.name "Faiznurullah"
           git add -A
           git commit -m "What are you looking for?"
           
